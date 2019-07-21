@@ -1,5 +1,5 @@
 {
-  "name": "fabric-ui-font",
+  "name": "@or-change/fabric-ui-font",
   "version": "0.0.2",
   "description": "",
   "main": "index.scss",
