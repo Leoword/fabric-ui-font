@@ -1,0 +1,15 @@
+@import 'office-ui-fabric-core/src/sass/variables/_ZIndex.Variables.scss';
+@import 'office-ui-fabric-core/src/sass/variables/_Icon.Variables.scss';
+@import 'office-ui-fabric-core/src/sass/mixins/_Directionality.Mixins.scss';
+@import 'office-ui-fabric-core/src/sass/mixins/_General.Mixins.scss';
+@import 'office-ui-fabric-core/src/sass/mixins/_Icon.Mixins.scss';
+@import 'office-ui-fabric-core/src/sass/_Icon.scss';
+
+@font-face {
+  font-family: 'FabricMDL2Icons';
+  src: url('./static/fabricmdl2icons-2.68.woff2') format('woff2'),
+       url('./static/fabricmdl2icons-2.68.woff') format('woff'),
+       url('./static/fabricmdl2icons-2.68.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
